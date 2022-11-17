@@ -1,0 +1,7 @@
+{
+  "name": "tugasMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
